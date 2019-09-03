@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/RyanM83/RyanM83.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a 2nd year student at the University of the West of Scotland studying BSc Computer Games Development. I am proficient in using Adobe Animate, Photoshop as well as currently learning Blender, Unity, Unreal Engine, C# and Visual Studio. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am eager and determined to learn and develop my skills and experiences to expand my scope of work and personal attributes. I believe in experimentation, pushing boundaries and exploration in order to enhance creativity and originality.
+
+I have a ‘can-do’ attitude towards everything I do and I have a keen eye for detail. I love to bring fresh and new ideas to the table in order to enhance outcomes. I approach every job with enthusiasm as I don’t believe in doing a job half-heartedly; a job is only worth doing if you’re going to do it well. I am a fast learner and give 100% to everything that I do.
+
 
 ### Markdown
 
