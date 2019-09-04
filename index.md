@@ -13,7 +13,7 @@ I have a ‘can-do’ attitude towards everything I do and I have a keen eye for
 
 ![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Front_View.png "3D car I created using Blender - Front view")
 
-![Star Killers video](https://img.youtube.com/vi/v6l82JZwbTY&t=26s/0.jpg)](https://www.youtube.com/watch?v=v6l82JZwbTY&t=26s "Click to play YouTube video")
+![Star Killers video](https://img.youtube.com/vi/v6l82JZwbTY/0.jpg)](https://www.youtube.com/watch?v=v6l82JZwbTY "Click to play YouTube video")
 
 ```markdown
 Syntax highlighted code block
