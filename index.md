@@ -9,7 +9,7 @@ I have a ‘can-do’ attitude towards everything I do and I have a keen eye for
 
 ### Markdown
 
-![image1](https://RyanM83.github.com/Images/image1.png)
+[image1](https://Ryanm83.github.io/Images/image1.png)
 
 ```markdown
 Syntax highlighted code block
