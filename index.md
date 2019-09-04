@@ -9,9 +9,9 @@ I have a ‘can-do’ attitude towards everything I do and I have a keen eye for
 
 ## Portfolio Images
 
-![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Side_View.png "_3D car I created using Blender - Side view_")
+![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Side_View.png "3D car I created using Blender - Side view")
 
-![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Front_View.png "_3D car I created using Blender - Front view_")
+![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Front_View.png "3D car I created using Blender - Front view")
 
 ```markdown
 Syntax highlighted code block
