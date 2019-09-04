@@ -9,7 +9,7 @@ I have a ‘can-do’ attitude towards everything I do and I have a keen eye for
 
 ### Markdown
 
-![image of a car](https://www.artstation.com/artwork/XB0OwL "3D car I created using Blender")
+![image of a car](https://raw.githubusercontent.com/RyanM83/RyanM83.github.io/master/3D_Car_Side_View.png "3D car I created using Blender")
 
 ```markdown
 Syntax highlighted code block
